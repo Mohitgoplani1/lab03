@@ -1,0 +1,17 @@
+{
+    "name": "company/utility",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Company\\Utility\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aditya Wanwade",
+            "email": "Adiwanwade@gmail.com"
+        }
+    ],
+    "require": {}
+}
